@@ -1,0 +1,24 @@
+.header{
+  align-items: center;
+  display: flex;
+  margin-bottom: 24px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header > .header__logo{
+  width: 64px;
+}
+
+.header > .header__shop-cart{
+  width: 24px;
+  height: 24px;
+}
+
+.header .header__arrow{
+  cursor: pointer;
+}
+
+.header h2{
+  margin-right: 151.75px
+}

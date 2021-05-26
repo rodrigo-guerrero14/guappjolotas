@@ -1,0 +1,54 @@
+.offers{
+  margin-top: 40px;
+}
+
+.offers h4{
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.offers > p{
+  color: var(--color-black);
+  opacity: .5;
+  font-size: 15px;
+  line-height: 20.83px;
+  letter-spacing: 0.02em;
+}
+
+.offers-products {
+  column-gap: 8px;
+  display: grid;
+  margin-top: 24px;
+  grid-template-columns: repeat(2, 1fr);
+  row-gap: 8px;
+}
+
+.offer-product{
+  background-color: white;
+  padding: 16px;
+  border-radius: 20px;
+}
+
+.offer-image-container{
+  margin-bottom: 8px;
+  position: relative;
+}
+
+.offer-image-container input{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.offer-product p,
+.offer-product span {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.offer-product span{
+  color: var(--color-orange);
+}

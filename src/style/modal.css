@@ -1,0 +1,86 @@
+.modal {
+  background-color: rgba(0, 0, 0, .5);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+}
+
+.modal .content-modal{
+  background-color: var(--color-white);
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 25px;
+  padding: 24px;
+  height: 399px;
+  width: 312px;
+}
+
+.modal .product-description{
+  padding-bottom: 16px;
+  min-height: 253px;
+}
+
+.modal .product-description img{
+  display: block;
+  margin: auto;
+}
+
+.modal .product-description h3,
+.modal .product-description span{
+  display: block;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+.modal .product-description h3{
+  color: var(--color-black);
+  line-height: 21px;
+  font-size: 17px;
+  margin-bottom: 8px;
+  margin-top: 16px;
+}
+
+.modal .product-description span{
+  color:var(--color-orange);
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+
+.modal .product-description .counter{
+  margin-top: 0;
+}
+
+.modal .buttons{
+  display: flex;
+  flex-direction: column;
+}
+
+.modal .buttons .update,
+.modal .buttons .close {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 21px;
+}
+
+.modal .buttons .update{
+  padding: 12px 24px;
+  background-color: var(--color-orange);
+  color: var(--color-white);
+  border-radius: 40px;
+}
+
+.modal .buttons .close {
+  background-color: transparent;
+  border: none;
+  color: var(--color-orange);
+  margin: 16px 0;
+}
+
+.modal .buttons .close:hover{
+  cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.counter{
+  align-items: center;
+  background-color: #FFF;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.03);
+  box-sizing: border-box;
+  display: flex;
+  margin: auto;
+  margin-top: 32px;
+  justify-content: space-around;
+  width: 190px;
+  padding: 16px;
+}
+
+.counter button{
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+.counter p{
+  color: var(--color-black);
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 26.63px;
+}

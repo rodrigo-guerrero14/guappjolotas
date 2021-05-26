@@ -1,0 +1,14 @@
+.sabores{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  row-gap: 24px;
+  margin-top: 40px;
+}
+
+.sabores h3{
+  grid-column: span 3;
+}
+
+.sabores .disabled{
+  opacity: .25;
+}

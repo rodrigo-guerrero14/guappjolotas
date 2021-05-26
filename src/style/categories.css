@@ -1,0 +1,31 @@
+.main__categories{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.main__categories button{
+  background-color: transparent;
+  border: none;
+  color: #9A9A9D;
+  font-size: 17px;
+  outline: none;
+  line-height: 20.57px;
+
+}
+
+
+.guajolotasIsActive button:first-child{
+  color: var(--color-orange);
+  border-bottom: 1px solid var(--color-orange);
+}
+
+.bebidasIsActive button:nth-child(2){
+  color: var(--color-orange);
+  border-bottom: 1px solid var(--color-orange);
+}
+
+.tamalesIsActive button:nth-child(3){
+  color: var(--color-orange);
+  border-bottom: 1px solid var(--color-orange);
+}

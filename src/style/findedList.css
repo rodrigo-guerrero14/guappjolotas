@@ -1,0 +1,20 @@
+.finded-list.initial{
+  display: flex;
+  margin: auto;
+  margin-top: 213px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.initial img{
+  max-width: 122px;
+  margin-bottom: 24px;
+}
+
+.initial h1{
+  line-height: 20px;
+  font-size: 17px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
