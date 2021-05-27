@@ -7,7 +7,7 @@ Nada como una guajolota para empezar el día, esta app será un carrito de compr
 
 Este proyecto se desarrollo con la finalidad de perfeccionar mis habilidades en react y sus respectivas librerias, que serán mencionadas en la siguiente sección.
 
-## ✨ Tecnologias
+## ✨ Tecnologías usadas
 - React 
 - Create react app
 - Redux
