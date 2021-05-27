@@ -21,7 +21,7 @@ Dejare sus redes para que sigan a este buen hombre :
 ### [Instagram](https://www.instagram.com/leonidasesteban/)
 ### [Twitter](https://twitter.com/LeonidasEsteban)
 ### [Youtube](https://www.youtube.com/user/LeonidasEsteban)
-### [Pagina web](https://leonidasesteban.com/)
+### [Pagina web de Leonidas](https://leonidasesteban.com/)
 
 Una mencion especial al diseñador de Leonidas !, al buen Cristopher 👏.
 ### [Instagram](https://www.instagram.com/uxcristopher/)
