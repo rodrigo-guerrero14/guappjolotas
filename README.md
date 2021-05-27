@@ -5,8 +5,7 @@ Nada como una guajolota para empezar el día, esta app será un carrito de compr
 
 ## 🕵‍️ Mis objetivos
 
-Este proyecto se desarrollo con la finalidad de perfeccionar mis habilidades en react y sus respectivas librerias, que serán mencionadas en la siguiente sección.
-
+Este proyecto se desarrollo con la finalidad de perfeccionar mis habilidades en react con sus respectivas librerias, además de demostrar mis capacidades con las tecnologias relacionadas con el Frontend, para si finalmente obtener mi soñado primer empleo en el mundo de las tecnologías 🦾.
 ## ✨ Tecnologías usadas
 - React 
 - Create react app
